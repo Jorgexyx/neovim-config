@@ -1,4 +1,4 @@
-## <div align="center"> [ThinkVim](https://github.com/taigacute/ThinkVim)</div>
+# <div align="center"> [ThinkVim](https://github.com/taigacute/ThinkVim)</div>
 
 
 |                                                                                                       |                                                                                                |
@@ -9,5 +9,10 @@
 ## <div align="center"> [ryanoasis/vim-devicons](https://github.com/taigacute/ThinkVim)</div>
 ## <div align="center"> [preservim/nerdtree](https://github.com/taigacute/ThinkVim)</div>
 
+# Installtion on Mac
+Run
+```
+brew install nvim
+```
 
 
