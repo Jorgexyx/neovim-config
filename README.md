@@ -15,4 +15,18 @@ Run
 brew install nvim
 ```
 
+Create nvim in config if doesnt exists
+```
+mkdir ~/.config/nvim
+```
+Clone repo there and move files to nvim directory
+
+```
+cd ~/.config/nvim
+git clone https://github.com/Jorgexyx/neovim-config
+mv neovim-config/* .
+```
+
+
+
 
